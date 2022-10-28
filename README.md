@@ -31,4 +31,4 @@ Firstly, I plotted the distribution of the loan outcomes (seven loan statuses/ca
 To round things off, I created a PairGrid Boxplot so as to check the relationship between the numerical features (Credit Score, Loan Original Amount, Borrower Rate) and categorical features concerned (Loan Status, Prosper Rating).
 
 ### Ige Amos Fadele
-#### LinkedIn: <a href="linkedin.com/in/MrfiaOfficial">linkedin.com/in/MrfiaOfficial</a>
+#### LinkedIn: <a href="http://linkedin.com/in/MrfiaOfficial">linkedin.com/in/MrfiaOfficial</a>
